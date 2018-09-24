@@ -1,5 +1,5 @@
 _repo: Turgenev-A-Study_56809
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Conrad, Joseph
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '125'
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+covers:
+- cover_type: archival
+  image_path: 56809-h/images/cover.jpg
 creator:
   author:
     agent_name: Garnett, Edward
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '34360'
     url: http://www.gutenberg.org/2009/agents/34360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56809#Turgenev-A-Study
 gutenberg_issued: '2018-03-22'
 gutenberg_type: Text
 identifiers:
