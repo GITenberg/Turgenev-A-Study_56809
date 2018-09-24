@@ -1,0 +1,38 @@
+_repo: Turgenev-A-Study_56809
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+creator:
+  author:
+    agent_name: Garnett, Edward
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '34360'
+    url: http://www.gutenberg.org/2009/agents/34360
+description: ''
+gutenberg_issued: '2018-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56809'
+  lccn: '18011704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Criticism and interpretation'
+- !lcc 'PG'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883'
+- GITenberg
+title: 'Turgenev: A Study'
+url: http://www.gutenberg.org/ebooks/56809
